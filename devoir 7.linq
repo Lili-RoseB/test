@@ -1,5 +1,5 @@
 <Query Kind="Statements" />
-
+//jhkjh
 
 Étudiant etu = new();
 Réinitialiser(etu, "Johanne", new(2000, 12, 12),
